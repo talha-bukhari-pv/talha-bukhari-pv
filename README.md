@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<p align="justify">
+  Hi!
+  I'm <b>Talha</b>.
+  This is my work account at <a href="https://pointivo.com/">Pointivo, Inc</a>.
+  You can <a href="mailto:syedtalha.bukhari@pointivo.com?subject=[GITHELP]">email</a> me for queries or head over to my personal account <a href="https://github.com/stalhabukhari">stalhabukhari</a> for public stuff.
+</p>
 
 <!--
 **talha-bukhari-pv/talha-bukhari-pv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
