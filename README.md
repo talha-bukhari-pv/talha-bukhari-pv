@@ -6,8 +6,6 @@
   You can <a href="mailto:syedtalha.bukhari@pointivo.com?subject=[GITHELP]">email</a> me for queries or head over to my personal account <a href="https://github.com/stalhabukhari">stalhabukhari</a> for public stuff.
 </p>
 
-![Talha's github stats](https://github-readme-stats.vercel.app/api?username=talha-bukhari-pv&count_private=true&hide=stars,issues&show_icons=true&theme=synthwave)
-
 <!--
 **talha-bukhari-pv/talha-bukhari-pv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
